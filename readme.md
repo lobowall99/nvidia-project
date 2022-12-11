@@ -2,11 +2,7 @@
 
  This network classifies images as either "poison oak" or "other leaves". It uses the imageNet progrm from jetson-inference. 
 
-![add image descrition here](direct image link here)
-
-## The Algorithm
-
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+This is an image of the final result. Class 1 refers to poison oak. The network analyzed with about 50% certainty that this is in fact poison oak. (https://imgur.com/a/0DmVf1Z)
 
 ## Running this project
 
