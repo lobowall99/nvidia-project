@@ -1,6 +1,6 @@
-# Project Name
+# Poison Oak Detector
 
- Add short description of project here > 
+ This network classifies images as either "poison oak" or "other leaves"
 
 ![add image descrition here](direct image link here)
 
