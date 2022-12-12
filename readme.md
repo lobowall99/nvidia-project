@@ -19,7 +19,7 @@ note: the images I used to test and train the network are very small because I h
 10. To test it: 
 NET=models/project
 DATASET=data/project
-imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/poison_oak/*yourfilename* cat.jpg
+imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/poison_oak/*yourfilename* *yourfilename*.jpg
 
 The resulting image should have the classification and percent confidence printed over it. 
 
