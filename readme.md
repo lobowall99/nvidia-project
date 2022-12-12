@@ -23,4 +23,4 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 
 The resulting image should have the classification and percent confidence printed over it. 
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/Jni9sH7VOoc)
